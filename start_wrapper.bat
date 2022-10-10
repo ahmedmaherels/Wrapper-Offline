@@ -2,7 +2,8 @@
 :: Author: benson#0411
 :: Project Runner: GoTest334#9880
 :: License: MIT
-set WRAPPER_VER=1.3.0
+set WRAPPER_VER=1.4.0 
+
 title Wrapper: Offline v%WRAPPER_VER% [Initializing...]
 
 ::::::::::::::::::::
